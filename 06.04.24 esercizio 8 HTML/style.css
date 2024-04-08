@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(221, 241, 221);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #0d4104;
+}
+
+h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(50, 119, 96);
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+  
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%; 
+    border-radius: 30px;
+    
+    @media only screen and (max-width: 600px) {
+        width: 30%; 
+    }
+
+    @media only screen and (max-width: 400px) {
+        width: 20%;
+    }
+}
+
+figcaption {
+    text-align: center;
+}

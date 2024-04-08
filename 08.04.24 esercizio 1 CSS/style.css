@@ -1,0 +1,25 @@
+h1 {
+    font-size: 48px;
+    color: #333333;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 36px;
+    color: black;
+    text-transform: capitalize;
+
+}
+
+
+p {
+    font-size: 18px;
+    color: black;
+
+}
+
+p a {
+    color: aquamarine;
+    text-decoration: underline;
+
+}
