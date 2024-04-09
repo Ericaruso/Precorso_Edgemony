@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+}
+
+p {
+    color: green;
+}
+
+a {
+    color: blue;
+}
+
+.title {
+    color: pink;
+}
+
+#title {
+    color: yellow;
+}
