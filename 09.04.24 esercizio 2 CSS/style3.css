@@ -1,0 +1,14 @@
+input[type="text"],
+input[type="password"] {
+  color: gray;
+}
+
+
+.Button {
+    color: white;
+  }
+
+  
+input[type="password"][name="password"] {
+    background-color: blue;
+  }
