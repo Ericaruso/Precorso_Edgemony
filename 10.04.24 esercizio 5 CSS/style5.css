@@ -1,0 +1,11 @@
+.para1 {
+    text-decoration: underline;
+}
+
+.para2 {
+    text-decoration: overline;
+}
+
+.para3 {
+    text-decoration: line-through;
+}

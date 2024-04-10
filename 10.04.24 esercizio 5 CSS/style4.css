@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    display: block;
+    text-align: justify;
+
+}
+
+a {
+    display: block; 
+    text-align: right; 
+
+}

@@ -1,0 +1,11 @@
+.text {
+    text-transform: uppercase ;
+}
+
+.Button {
+    text-transform: lowercase;
+}
+
+.Button:hover {
+    text-transform: capitalize;
+}

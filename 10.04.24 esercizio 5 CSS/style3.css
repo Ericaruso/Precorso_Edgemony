@@ -1,0 +1,8 @@
+.text {
+    font-weight: normal;
+}
+
+.Button:hover {
+    font-weight: bold;
+
+}
